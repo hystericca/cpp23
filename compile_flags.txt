@@ -1,0 +1,8 @@
+-std=c++26
+-Iinclude
+-Wall
+-Wextra
+-Wpedantic
+-Wconversion
+-Werror
+-fdiagnostics-show-template-tree
