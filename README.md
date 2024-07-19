@@ -2,4 +2,3 @@
 
 Generated C++ CLI project.
 
-# cpp23
